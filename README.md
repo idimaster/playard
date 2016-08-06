@@ -1,2 +1,2 @@
 # playard
-Fun coding
+Fun coding, just for fun.
