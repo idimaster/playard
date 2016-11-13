@@ -1,0 +1,15 @@
+
+
+key: large   size: 5mb
+
+5 chanks
+key: large#0 val size 1 mb
+key: large#1 val
+
+key: large
+json:
+id: "jey "
+size :
+keys : [key1, key2, large#0 ...]
+
+large#methainfo
