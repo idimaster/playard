@@ -1,0 +1,5 @@
+
+Fsquid:S1481"*Remove this unused "inbox" local variable.(á£Ï‰8Ûû—‚¾+
+Usquid:S1854"9Remove this useless assignment to local variable "inbox".(á£Ï‰8Ûû—‚¾+
+\squid:S1854";Remove this useless assignment to local variable "greeter".(‹½çÀÿÿÿÿÿ8Ûû—‚¾+
+Msquid:S1481",Remove this unused "greeter" local variable.(‹½çÀÿÿÿÿÿ8Ûû—‚¾+

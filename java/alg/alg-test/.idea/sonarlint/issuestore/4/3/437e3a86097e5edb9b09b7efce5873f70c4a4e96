@@ -1,0 +1,11 @@
+
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(Ž„þÍÿÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(ŽÛÈë
+?squid:S1166"%Either log or rethrow this exception.(±Ÿ—±ÿÿÿÿÿ
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê

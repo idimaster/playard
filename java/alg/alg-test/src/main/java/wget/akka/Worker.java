@@ -10,7 +10,6 @@ import akka.actor.ActorRef;
 public class Worker extends UntypedActor {
 
     @Override
-    public Object onReceive(Object message) {
-        return null;
+    public void onReceive(Object message) {
     }
 }

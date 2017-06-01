@@ -1,0 +1,9 @@
+
+Hsquid:S1481".Remove this unused "dayOfWeek" local variable.(È¿’øÿÿÿÿ
+Asquid:S1481",Remove this unused "present" local variable.(îÂŸ
+Asquid:S1481",Remove this unused "exclude" local variable.(ê¨³£
+Bsquid:S1481"(Remove this unused "pos" local variable.(˜ÁÈÀıÿÿÿÿ
+Bsquid:S1172"(Remove this unused method parameter "n".(êå¨ßûÿÿÿÿ
+Wsquid:S1854"=Remove this useless assignment to local variable "dayOfWeek".(È¿’øÿÿÿÿ
+Psquid:S1854";Remove this useless assignment to local variable "exclude".(ê¨³£
+Usquid:S1854";Remove this useless assignment to local variable "present".(Â“ªóøÿÿÿÿ
