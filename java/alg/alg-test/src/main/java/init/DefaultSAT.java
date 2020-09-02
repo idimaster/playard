@@ -3,7 +3,7 @@ package init;
 import java.net.URL;
 
 /**
- * Created by Dnitry on 5/10/2015.
+ * Created by Dmitry on 5/10/2015.
  */
 public class DefaultSAT {
     public static void main(String [] args) {

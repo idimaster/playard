@@ -1,7 +1,7 @@
 package top;
 
 /**
- * Created by Dnitry on 6/17/2015.
+ * Created by Dmitry on 6/17/2015.
  */
 public class AB {
     final String empty="";

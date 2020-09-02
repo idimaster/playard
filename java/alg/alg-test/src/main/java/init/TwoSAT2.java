@@ -5,7 +5,7 @@ import java.net.URL;
 import java.util.*;
 
 /**
- * Created by Dnitry on 5/10/2015.
+ * Created by Dmitry on 5/10/2015.
  */
 public class TwoSAT2 {
 

@@ -8,7 +8,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by Dnitry on 4/12/2015.
+ * Created by Dmitry on 4/12/2015.
  */
 public class BinClusteringTest {
     @Test

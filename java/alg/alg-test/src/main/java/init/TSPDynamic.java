@@ -6,7 +6,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * Created by Dnitry on 5/3/2015.
+ * Created by Dmitry on 5/3/2015.
  */
 public class TSPDynamic {
 

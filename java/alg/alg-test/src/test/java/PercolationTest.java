@@ -6,7 +6,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by Dnitry on 6/26/2015.
+ * Created by Dmitry on 6/26/2015.
  */
 public class PercolationTest {
 

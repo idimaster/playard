@@ -1,7 +1,7 @@
 import org.junit.Test;
 
 /**
- * Created by Dnitry on 6/20/2015.
+ * Created by Dmitry on 6/20/2015.
  */
 public class WeightedQuickUnionUFTest {
     @Test

@@ -7,7 +7,7 @@ import java.net.URL;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Dnitry on 4/11/2015.
+ * Created by Dmitry on 4/11/2015.
  */
 public class SingleLinkClusteringTest {
     @Test

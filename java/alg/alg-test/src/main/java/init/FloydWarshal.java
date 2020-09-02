@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 /**
- * Created by Dnitry on 4/26/2015.
+ * Created by Dmitry on 4/26/2015.
  */
 public class FloydWarshal   {
 

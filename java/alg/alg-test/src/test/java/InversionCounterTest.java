@@ -5,7 +5,7 @@ import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Dnitry on 2/26/2015.
+ * Created by Dmitry on 2/26/2015.
  */
 public class InversionCounterTest {
 

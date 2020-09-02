@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by Dnitry on 4/26/2015.
+ * Created by Dmitry on 4/26/2015.
  */
 public class LRS {
 

@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Created by Dnitry on 6/17/2015.
+ * Created by Dmitry on 6/17/2015.
  */
 public class PersonalCalendar {
     static public class Meeting {

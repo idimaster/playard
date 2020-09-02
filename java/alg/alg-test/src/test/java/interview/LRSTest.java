@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Dnitry on 4/26/2015.
+ * Created by Dmitry on 4/26/2015.
  */
 public class LRSTest {
     @Test

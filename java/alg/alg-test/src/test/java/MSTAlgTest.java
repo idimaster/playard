@@ -7,7 +7,7 @@ import java.net.URL;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Dnitry on 3/29/2015.
+ * Created by Dmitry on 3/29/2015.
  */
 public class MSTAlgTest {
 

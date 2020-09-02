@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * Created by Dnitry on 2/26/2015.
+ * Created by Dmitry on 2/26/2015.
  */
 public class DefaultJobs {
     public static void main(String [] args) {

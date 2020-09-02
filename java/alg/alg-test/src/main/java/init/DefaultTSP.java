@@ -3,7 +3,7 @@ package init;
 import java.net.URL;
 
 /**
- * Created by Dnitry on 5/3/2015.
+ * Created by Dmitry on 5/3/2015.
  */
 public class DefaultTSP {
     public static void main(String [] args) {

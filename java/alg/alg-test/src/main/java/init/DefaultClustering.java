@@ -3,7 +3,7 @@ import java.net.URL;
 
 
 /**
- * Created by Dnitry on 2/26/2015.
+ * Created by Dmitry on 2/26/2015.
  */
 public class DefaultClustering {
     public static void main(String [] args) {

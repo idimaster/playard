@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Created by Dnitry on 3/28/2015.
+ * Created by Dmitry on 3/28/2015.
  */
 public class JobScheduler {
     public static class JobDefinition {

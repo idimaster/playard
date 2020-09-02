@@ -5,7 +5,7 @@ import java.net.URL;
 import java.util.*;
 
 /**
- * Created by Dnitry on 3/29/2015.
+ * Created by Dmitry on 3/29/2015.
  */
 public class MSTAlg {
     public static class Edge implements  Comparable{

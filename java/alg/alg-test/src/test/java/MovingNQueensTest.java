@@ -8,7 +8,7 @@ import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Dnitry on 2/28/2015.
+ * Created by Dmitry on 2/28/2015.
  */
 public class MovingNQueensTest {
 

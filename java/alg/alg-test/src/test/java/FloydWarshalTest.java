@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
 /**
- * Created by Dnitry on 4/26/2015.
+ * Created by Dmitry on 4/26/2015.
  */
 public class FloydWarshalTest {
     @Test

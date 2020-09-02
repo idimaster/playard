@@ -9,7 +9,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * Created by Dnitry on 6/17/2015.
+ * Created by Dmitry on 6/17/2015.
  */
 public class PersonalCalendarTest {
     @Test

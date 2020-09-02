@@ -3,7 +3,7 @@ package init;
 import java.net.URL;
 
 /**
- * Created by Dnitry on 4/12/2015.
+ * Created by Dmitry on 4/12/2015.
  */
 public class DefaultBin {
     public static void main(String [] args) {

@@ -5,7 +5,7 @@ import java.net.URL;
 import java.util.*;
 
 /**
- * Created by Dnitry on 4/11/2015.
+ * Created by Dmitry on 4/11/2015.
  */
 public class SingleLinkClustering {
     public static class Edge implements  Comparable{

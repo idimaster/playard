@@ -4,7 +4,7 @@ import java.net.URL;
 
 
 /**
- * Created by Dnitry on 4/17/2015.
+ * Created by Dmitry on 4/17/2015.
  */
 public class DefaultKnapsack {
     public static void main(String [] args) {

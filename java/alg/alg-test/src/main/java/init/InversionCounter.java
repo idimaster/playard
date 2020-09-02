@@ -5,7 +5,7 @@ import java.util.concurrent.ForkJoinTask;
 import java.util.concurrent.RecursiveTask;
 
 /**
- * Created by Dnitry on 2/26/2015.
+ * Created by Dmitry on 2/26/2015.
  */
 public class InversionCounter {
 

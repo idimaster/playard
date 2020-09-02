@@ -3,7 +3,7 @@ package init;
 import java.net.URL;
 
 /**
- * Created by Dnitry on 4/26/2015.
+ * Created by Dmitry on 4/26/2015.
  */
 public class DefaultFloydWarshal {
     public static void main(String [] args) {

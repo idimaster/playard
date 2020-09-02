@@ -9,7 +9,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by Dnitry on 5/10/2015.
+ * Created by Dmitry on 5/10/2015.
  */
 public class TwoSat2Test {
     @Test

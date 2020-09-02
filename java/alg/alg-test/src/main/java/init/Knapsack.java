@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
- * Created by Dnitry on 4/17/2015.
+ * Created by Dmitry on 4/17/2015.
  */
 public class Knapsack {
     private static class Vertex implements Comparable {

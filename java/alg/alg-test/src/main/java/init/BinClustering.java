@@ -5,7 +5,7 @@ import java.net.URL;
 import java.util.*;
 
 /**
- * Created by Dnitry on 4/12/2015.
+ * Created by Dmitry on 4/12/2015.
  */
 public class BinClustering {
 
