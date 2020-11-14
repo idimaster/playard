@@ -3,8 +3,8 @@ import java.util.stream.Collectors;
 
 public class ValidParentheses {
     public boolean isValid(String s) {
-        List<Character> open = Arrays.asList('{','(','[');
-        List<Character> close = Arrays.asList('}',')',']');
+        List<Character> open = Arrays.asList('{', '(', '[');
+        List<Character> close = Arrays.asList('}', ')', ']');
         Deque<Character> chars = new ArrayDeque<>();
         try {
             for (char ch : s.toCharArray()) {
@@ -21,6 +21,7 @@ public class ValidParentheses {
             }
         } catch (NoSuchElementException ex) {
             return false;
+        }
         return chars.isEmpty();
     }
 
@@ -43,6 +44,7 @@ public class ValidParentheses {
                 } else {
                     chars.pop();
                 }
-        }});
+            });
+        return false;
     }
 }

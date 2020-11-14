@@ -3,7 +3,7 @@ import java.util.List;
 
 public class S1 {
 
-
+/*
     Given two sorted integer arrays, find their intersection. For example:
 
     a1 = [2, 3, 9, 13], n
@@ -20,7 +20,7 @@ public class S1 {
     a2 = [1, 1, 3]
     out = [1, 3]
 
-    O (min (m,n))
+    O (min (m,n))*/
 
     List<Integer> itersection(int[] a1, int[] a2) {
         List<Integer> result = new ArrayList<>();
@@ -39,14 +39,14 @@ public class S1 {
                 }
                 j++;
             } else {
-                i++
+                i++;
             }
         }
         return result;
     }
 }
 
-
+/*
 
     Array product except element at input[i]
         Description: we have an array called input, and it contains N elements. I would like you to return an array called output, such that output[i] is equal to the product of all the elements of input except input[i].
@@ -142,3 +142,5 @@ public class S1 {
 
         Cpu O(n)
         mem O(n)
+
+ */
